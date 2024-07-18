@@ -8,3 +8,4 @@ postmarkup
 textile
 Pygments
 git+https://github.com/equeny/tornadomail.git
+setuptools>=70.0.0 # not directly required, pinned by Snyk to avoid a vulnerability
